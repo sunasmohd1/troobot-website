@@ -11795,7 +11795,6 @@ pre .code {
 }
 
 .header {
-  height: 80%;
   min-height: 600px;
   background: url(../imgs/travel.jpg) no-repeat center center fixed;
   background-size: cover;
@@ -11806,7 +11805,8 @@ pre .code {
   left: 0;
   top: 0;
   width: 100%;
-  height: 80%;
+  min-height: 600px;
+
   background: rgba(0, 0, 0, 0.45);
   color: #fff;
   display: -webkit-box;
