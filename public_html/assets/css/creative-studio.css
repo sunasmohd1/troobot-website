@@ -11797,7 +11797,7 @@ pre .code {
 .header {
   height: 100%;
   min-height: 600px;
-  background: url(../imgs/troobot1.jpg) no-repeat center center fixed;
+  background: url(../imgs/travel.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -11925,7 +11925,7 @@ section.has-bg-img.bg-img-1:after {
 }
 
 section.has-bg-img.bg-img-2:after {
-  background-image: url(../imgs/troobot1.jpg);
+  background-image: url(../imgs/travel.jpg);
 }
 
 section .section-subtitle {
